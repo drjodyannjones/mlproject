@@ -1,0 +1,13 @@
+name: mlproject
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - numpy
+  - seaborn
+  - scikit-learn
+  - matplotlib
+  - catboost
+  - xgboost
+  - python=3.8
