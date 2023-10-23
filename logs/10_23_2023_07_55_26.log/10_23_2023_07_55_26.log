@@ -1,0 +1,11 @@
+[ 2023-10-23 07:55:27,624 ] 31 root - INFO - Entered the data ingestion method or component
+[ 2023-10-23 07:55:27,627 ] 34 root - INFO - Read the dataset as dataframe
+[ 2023-10-23 07:55:27,630 ] 42 root - INFO - Train test split initiated
+[ 2023-10-23 07:55:27,633 ] 53 root - INFO - Ingestion of data is completed
+[ 2023-10-23 07:55:27,638 ] 81 root - INFO - Read train and test data completed
+[ 2023-10-23 07:55:27,638 ] 82 root - INFO - Obtaining preprocessing object
+[ 2023-10-23 07:55:27,638 ] 59 root - INFO - Categorical encoding completed
+[ 2023-10-23 07:55:27,638 ] 60 root - INFO - Categorical columns are ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2023-10-23 07:55:27,638 ] 61 root - INFO - Numerical preprocessing completed
+[ 2023-10-23 07:55:27,638 ] 62 root - INFO - Numerical columns are ['writing_score', 'reading_score']
+[ 2023-10-23 07:55:27,639 ] 98 root - INFO - Applying preprocessing object on train and test data.

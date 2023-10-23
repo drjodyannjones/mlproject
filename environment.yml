@@ -10,4 +10,5 @@ dependencies:
   - matplotlib
   - catboost
   - xgboost
+  - dill
   - python=3.8
