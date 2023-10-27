@@ -2,8 +2,12 @@
 .artifacts
 .env
 .venv
+artifacts/
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Log files
+logs/
