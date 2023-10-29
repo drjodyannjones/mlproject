@@ -11,4 +11,5 @@ dependencies:
   - catboost
   - xgboost
   - dill
+  - flask
   - python=3.8
